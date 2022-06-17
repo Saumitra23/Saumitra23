@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumitra23" alt="saumitra23" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/shuklaa_23" target="blank"><img src="https://img.shields.io/twitter/follow/shuklaa_23?logo=twitter&style=for-the-badge" alt="shuklaa_23" /></a> </p>
+
 - 🌱 I’m currently learning **Front-end Technology (mainly React)**
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
