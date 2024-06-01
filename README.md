@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shuklaa_23" target="blank"><img src="https://img.shields.io/twitter/follow/shuklaa_23?logo=twitter&style=for-the-badge" alt="shuklaa_23" /></a> </p>
 
-- 🌱 I’m currently learning **Front-end Technology (mainly React)**
+- 🌱 In love with javascript, React, Redux, tailwindcss, etc etc etc...
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **saumitrashukla23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-PPzny-8DHz4j_n411VWtzc7tawffIz2/view?usp=sharing](https://drive.google.com/file/d/1-PPzny-8DHz4j_n411VWtzc7tawffIz2/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-PPzny-8DHz4j_n411VWtzc7tawffIz2/view?usp=sharing](https://drive.google.com/file/d/1rsyt4hyY4TlFFDmGsqqKHZL9iExW4lN8/view?usp=drive_link)
 
 - ⚡ Fun fact **I Think I'm weird (sometimes :p)**
 
