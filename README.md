@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **saumitrashukla23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-PPzny-8DHz4j_n411VWtzc7tawffIz2/view?usp=sharing](https://drive.google.com/file/d/1rsyt4hyY4TlFFDmGsqqKHZL9iExW4lN8/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-PPzny-8DHz4j_n411VWtzc7tawffIz2/view?usp=sharing](https://drive.google.com/file/d/1tFNGdpYGsIdOtHKVUPaBa3QLerGVGpxV/view?usp=drive_link)
 
 - ⚡ Fun fact **I Think I'm weird (sometimes :p)**
 
